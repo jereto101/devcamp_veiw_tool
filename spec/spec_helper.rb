@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "devcamp_view_tool"
+require "devcamp_veiw_tool"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
