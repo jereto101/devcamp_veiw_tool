@@ -1,8 +1,8 @@
 require "spec_helper"
 
-RSpec.describe DevcampViewTool do
+RSpec.describe DevcampVeiwTool do
   it "has a version number" do
-    expect(DevcampViewTool::VERSION).not_to be nil
+    expect(DevcampVeiwTool::VERSION).not_to be nil
   end
 
   it "does something useful" do

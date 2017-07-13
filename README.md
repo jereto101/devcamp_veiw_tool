@@ -1,4 +1,4 @@
-# DevcampViewTool
+# DevcampVeiwTool
 
 < various views specific methods for applications that i use
 
